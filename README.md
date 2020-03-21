@@ -1,4 +1,4 @@
-myTest2
+Bible-quotes
 =======
 
-this is for test...
+thsi is for Bible-quotes
